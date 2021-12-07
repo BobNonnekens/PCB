@@ -5,7 +5,7 @@
 
 
 ## Doel document
-Dit document is het beheerplan dat beschrijft hoe het PCB beheer wordt, met als basis het Beheermodel voor Open Standaarden [BOMOS](https://www.forumstandaardisatie.nl/sites/bfs/files/proceedings/FS22-10-04%204b%20BOMOS.pdf). Zie ook [BOMOS2i](https://www.geonovum.nl/uploads/documents/BOMOS2i.pdf)
+Dit document is het beheerplan dat beschrijft hoe het PCB beheerd wordt, met als basis het Beheermodel voor Open Standaarden [BOMOS](https://www.forumstandaardisatie.nl/sites/bfs/files/proceedings/FS22-10-04%204b%20BOMOS.pdf). Zie ook [BOMOS2i](https://www.geonovum.nl/uploads/documents/BOMOS2i.pdf)
 
 Beheer volgens BOMOS heeft de volgende voordelen:
 *	Belangen van stakeholders worden evenwichtig afgewogen bij ontwikkeling en beheer van de standaard.
